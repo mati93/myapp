@@ -8,3 +8,17 @@
 </p>
 
 System zarządzania warsztatem samochodowym
+
+<img src="http://up.programosy.pl/view/1_1205.png.html" alt="Build Status">
+
+<img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status">
+
+<img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status">
+
+<img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status">
+
+<img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status">
+
+<img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status">
+
+<img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status">
