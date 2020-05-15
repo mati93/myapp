@@ -9,7 +9,7 @@
 
 System zarządzania warsztatem samochodowym
 
-<img src="http://up.programosy.pl/view/1_1205.png.html" alt="Build Status">
+<a href='http://up.programosy.pl/foto/1_1205.png'><img src='http://up.programosy.pl/foto/1_1205.png'></a>
 
 <img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status">
 
